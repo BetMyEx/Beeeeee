@@ -106,10 +106,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1580983299303" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580985082094">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580985871802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580985082094" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580985871802" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1580985805431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580985805431" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1580985855228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580985855228" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580985000353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
