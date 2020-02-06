@@ -10,7 +10,9 @@ body {
     font-size: 60px;
     height: 76px;
     width: 330px;
-
+    padding-top: 120px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .bannerH2 {
@@ -18,31 +20,5 @@ body {
     font-size: 36px;
     height: 46px;
     width: 375px;
-}
-
-.bannerButtons {
-    margin-left: 130px;
-
-}
-
-.whiteButton {
-    height: 60px;
-    width: 283px;
-    border: none;
-    border-radius: 0px;
-    background-color: rgb(255, 255, 255);
-    margin-right: 25px;
-    font-family: 'Abel', sans-serif;
-    font-size: 26px;
-}
-
-.blackButton {
-    height: 60px;
-    width: 283px;
-    border: none;
-    border-radius: 0px;
-    background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
-    font-family: 'Abel', sans-serif;
-    font-size: 26px;
+    margin-top: auto;
 }

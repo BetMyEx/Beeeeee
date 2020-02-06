@@ -1,0 +1,26 @@
+.bannerButtons {
+    margin-left: 130px;
+    display: flex;
+}
+
+.whiteButton {
+    height: 60px;
+    width: 283px;
+    border: none;
+    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 25px;
+    font-family: 'Abel', sans-serif;
+    font-size: 26px;
+}
+
+.blackButton {
+    height: 60px;
+    width: 283px;
+    border: none;
+    border-radius: 0px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Abel', sans-serif;
+    font-size: 26px;
+}
