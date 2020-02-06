@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9630a9ec-4818-4ec2-9b74-6d60ca1dfec1" name="Default Changelist" comment="06.02.2020">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BannerHeader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerHeader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BannerHeader/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerHeader/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,11 @@
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-darwin-x64/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/https:/github.com/BetMyEx/Beeeeee.git" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
