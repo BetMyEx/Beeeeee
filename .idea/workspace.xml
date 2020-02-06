@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9630a9ec-4818-4ec2-9b74-6d60ca1dfec1" name="Default Changelist" comment="06.02.2020">
-      <change afterPath="$PROJECT_DIR$/src/components/BannerHeader/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BannerHeader/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580927012057</updated>
       <workItem from="1580927013499" duration="8425000" />
+      <workItem from="1580985736827" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="06.02.2020">
       <created>1580984971771</created>
@@ -87,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580984971771</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="06.02.2020">
+      <created>1580985826415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580985826415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="06.02.2020">
+      <created>1580985883674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580985883674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,18 +114,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1580983299303" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580985871802">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580986365349">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580985871802" />
-    <state x="144" y="78" key="DiffContextDialog" timestamp="1580985805431">
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580986365349" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1580986137495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580985805431" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1580985855228">
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580986137495" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1580986320789">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580985855228" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580986320788" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580985000353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
