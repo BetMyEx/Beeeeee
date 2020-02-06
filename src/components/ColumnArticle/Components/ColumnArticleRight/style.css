@@ -1,0 +1,28 @@
+.columnArticleRight {
+    display: flex;
+    height: 526px;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.columnArticleRightPicture {
+    display: flex;
+    align-items: center;
+    height: 386px;
+    width: 586px;
+    background: rgb(216, 216, 216);
+    margin-top: 80px;
+    margin-right: 125px;
+}
+
+.columnArticleRightHeader {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+.columnArticleRightContent {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
