@@ -1,0 +1,11 @@
+.signUpHeader {
+    height: 47px;
+    width: 339px;
+    font-family: 'Abel', sans-serif;
+    font-size: 35px;
+    background-color: none;
+}
+.input {
+    height: 60px;
+    width: 412px;
+}

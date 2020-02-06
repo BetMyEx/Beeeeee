@@ -1,12 +1,13 @@
 import React from "react";
 import "./style.css";
-class lineArticle extends React.Component{
+import FirstArticle from './Components/FirstArticle';
+class LineArticle extends React.Component {
     render() {
         return <div className="lineArticle">
-            <div className="firstArticle">1</div>
-            <div className="secondArticle">2</div>
-            <div className="thirdArticle">3</div>
+            <div><FirstArticle></FirstArticle></div>
+            <div><FirstArticle></FirstArticle></div>
+            <div><FirstArticle></FirstArticle></div>
         </div>
     }
 }
-export default lineArticle;
+export default LineArticle;

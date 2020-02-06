@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9630a9ec-4818-4ec2-9b74-6d60ca1dfec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerHeader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerHeader/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LineArticle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LineArticle/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LineArticle/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LineArticle/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,6 +51,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm" />
+      <recent name="$PROJECT_DIR$/src/components/LineArticle/Components" />
       <recent name="$PROJECT_DIR$/https:/github.com/BetMyEx/Beeeeee.git" />
     </key>
   </component>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580988804367</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="06.02.2020 v2">
+      <created>1580992933185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580992933185</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,34 +160,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1580983299303" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580988804245">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1580992933073">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580988804245" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580992933073" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1580986137495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580986137495" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1580989663591">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1581007619784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580989663591" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1580989663589">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581007619784" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1581007619782">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580989663589" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1580989663588">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581007619782" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1581007619780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580989663588" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1580989663590">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581007619780" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1581007619783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580989663590" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1580988806579">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581007619783" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1580992938281">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580988806579" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1580992938281" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580985000353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

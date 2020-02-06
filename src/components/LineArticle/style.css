@@ -1,18 +1,10 @@
 .lineArticle {
-display: flex;
+    display: flex;
+    height: 667px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: auto;
 }
-.firstArticle {
-    height: 502px;
-    width: 380px;
-    background-color: #282c34;
-}
-.secondArticle {
-    height: 502px;
-    width: 380px;
-    background-color: #282c34;
-}
-.thirdArticle {
-    height: 502px;
-    width: 380px;
-    background-color: #282c34;
-}
+
+

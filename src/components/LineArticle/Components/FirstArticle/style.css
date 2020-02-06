@@ -1,0 +1,42 @@
+.firstArticle {
+    height: 502px;
+    width: 380px;
+    background-color: rgb(255, 255, 255);
+}
+
+.firstArticlePicture {
+    height: 244px;
+    width: 380px;
+    background-color: rgb(216, 216, 216);
+    margin-bottom: 30px;
+}
+
+.firstArticleHeader {
+    height: 38px;
+    width: 379px;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    justify-content: left;
+    margin-bottom: 10px;
+}
+
+.firstArticleContent {
+    height: 120px;
+    width: 379px;
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.firstArticleMore {
+    height: 23px;
+    width: 379px;
+    font-size: 18px;
+    color: rgb(120, 120, 120);
+    border-radius: 0px;
+    border: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}

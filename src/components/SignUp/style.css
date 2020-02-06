@@ -1,0 +1,8 @@
+.signUp {
+    display: flex;
+    height: 395px;
+    width: 100%;
+    background-color: rgb(216, 216, 216);
+    align-items: center;
+    justify-content: center;
+}
