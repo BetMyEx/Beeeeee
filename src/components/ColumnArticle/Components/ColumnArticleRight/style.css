@@ -1,28 +1,37 @@
 .columnArticleRight {
     display: flex;
-    height: 526px;
-    width: 100%;
-    justify-content: flex-end;
+    align-items: center;
+    margin: 80px 125px;
+}
+
+.columnArticleLeft {
+    display: flex;
+    align-items: center;
+    margin: 80px 125px;
+    flex-direction: row-reverse;
 }
 
 .columnArticleRightPicture {
-    display: flex;
-    align-items: center;
     height: 386px;
     width: 586px;
     background: rgb(216, 216, 216);
-    margin-top: 80px;
-    margin-right: 125px;
+    flex: none;
+}
+
+.textWrapperReverse {
+    margin-left: 60px;
+}
+
+.textWrapper {
+    margin-right: 60px;
+    text-align: right;
 }
 
 .columnArticleRightHeader {
-    display: flex;
-    align-items: center;
     font-size: 30px;
+    margin-bottom: 8px;
 }
 
 .columnArticleRightContent {
-    display: flex;
-    align-items: center;
     font-size: 18px;
 }

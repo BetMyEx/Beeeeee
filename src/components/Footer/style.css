@@ -1,0 +1,43 @@
+.footer {
+    height: 415px;
+    width: 100%;
+    background-color: rgb(216, 216, 216);
+    color: rgb(255, 255, 255);
+    padding-top: 97px;
+}
+
+.footerContent {
+    margin: 0 auto;
+}
+
+.footerLogo {
+    height: 55px;
+    width: 55px;
+    color: white;
+    display: block;
+    position: relative;
+    margin: 0 auto 0;
+}
+
+.footerMenu {
+    color: rgb(255, 255, 255);
+    height: 31px;
+    display: table;
+    position: relative;
+    margin: 30px auto 0;
+
+}
+
+.footerLine {
+    display: table;
+    position: relative;
+    margin: 29px auto 51px;
+}
+
+.footerSocialIcons {
+    display: block;
+    position: relative;
+    width: 230px;
+    margin: 0 auto 0;
+}
+

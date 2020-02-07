@@ -4,7 +4,13 @@
     <list default="true" id="9630a9ec-4818-4ec2-9b74-6d60ca1dfec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LineArticle/Components/FirstArticle/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LineArticle/Components/FirstArticle/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -49,7 +55,15 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons" />
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/FooterLine" />
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/Twitter" />
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/LinkedIn" />
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/Instagram" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons" />
       <recent name="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight" />
       <recent name="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm" />
       <recent name="$PROJECT_DIR$/src/components/LineArticle/Components" />
@@ -147,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581008180130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="06.02.2020 v3">
+      <created>1581016564958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581016564958</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,34 +189,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1580983299303" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1581008179989">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1581016564763">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581008179989" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581016564763" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1580986137495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580986137495" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1581007619784">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1581074007770">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581007619784" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1581007619782">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581074007770" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1581074007769">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581007619782" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1581007619780">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581074007769" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1581074007768">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581007619780" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1581007619783">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581074007768" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1581074007769">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581007619783" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581008182665">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581074007769" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581016577322">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581008182665" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581016577322" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580985000353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

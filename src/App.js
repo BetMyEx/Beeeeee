@@ -5,6 +5,7 @@ import BannerHeader from "./components/BannerHeader";
 import LineArticle from "./components/LineArticle";
 import SignUp from "./components/SignUp";
 import ColumnArticle from "./components/ColumnArticle";
+import Footer from "./components/Footer";
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
           <LineArticle/>
           <SignUp/>
           <ColumnArticle/>
+          <Footer/>
         </div>
     );
 }

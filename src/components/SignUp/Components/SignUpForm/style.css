@@ -4,8 +4,12 @@
     font-family: 'Abel', sans-serif;
     font-size: 35px;
     background-color: none;
+    color: rgb(0, 0, 0);
+    margin-left: 220px;
 }
-.input {
-    height: 60px;
-    width: 412px;
+.signUpInput {
+    font-size: 26px;
+    border: 0;
+    padding: 13px 0 17px 30px;
+    width: 410px;
 }

@@ -4,7 +4,7 @@ class SignUpForm extends React.Component {
     render() {
         return <div className="signUpForm">
             <p className="signUpHeader">Sign Up for updates</p>
-            <input type="email" className="signUpForm"/>
+            <input type="text" className="signUpInput" placeholder='Enter your email'/>
             <button className="blackButton">fill button</button>
         </div>;
     }
