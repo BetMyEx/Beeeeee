@@ -8,12 +8,13 @@ import Twitter from "./Twitter";
 class SocialIcons extends React.Component {
     render() {
         return <nav className='socialIcons'>
-            <div><Facebook></Facebook></div>
-            <div><Instagram></Instagram></div>
-            <div><LinkedIn></LinkedIn></div>
-            <div><Twitter></Twitter></div>
-        </nav> ;
+            <Facebook />
+            <Instagram />
+            <LinkedIn />
+            <Twitter />
+        </nav>;
     }
 
 }
+
 export default SocialIcons;

@@ -3,5 +3,14 @@
     width: 55px;
     border-radius: 100%;
     background-color: rgb(216, 216, 216);
+
+}
+
+.logo.footerLogo {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo.headerLogo {
     margin-left: 50px;
+    background-color: rgb(216, 216, 216);
 }

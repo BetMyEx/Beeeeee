@@ -11,12 +11,8 @@
 }
 
 .footerLogo {
-    height: 55px;
-    width: 55px;
-    color: white;
-    display: block;
-    position: relative;
-    margin: 0 auto 0;
+   display: flex;
+    justify-content: center;
 }
 
 .footerMenu {
@@ -35,9 +31,8 @@
 }
 
 .footerSocialIcons {
-    display: block;
+    display: flex;
     position: relative;
-    width: 230px;
-    margin: 0 auto 0;
+    justify-content: center;
 }
 

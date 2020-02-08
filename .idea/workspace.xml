@@ -3,14 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9630a9ec-4818-4ec2-9b74-6d60ca1dfec1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/Components/ColumnArticleRight/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ColumnArticle/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColumnArticle/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/Components/SignUpForm/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Components/SocialIcons/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Componets/Logo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Componets/Logo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Componets/Logo/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Componets/Logo/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Componets/MenuItem/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581016564958</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="07.02.2020 v1">
+      <created>1581081464231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581081464231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +185,8 @@
     <MESSAGE value="06.02.2020" />
     <MESSAGE value="06.02.2020 v2" />
     <MESSAGE value="06.02.2020 v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.02.2020 v3" />
+    <MESSAGE value="07.02.2020 v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.02.2020 v1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="115" key="#Deployment" timestamp="1580988239898">
@@ -189,34 +197,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1580983299303" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1581016564763">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1581081464084">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581016564763" />
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581081464084" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1580986137495">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="78" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1580986137495" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1581074007770">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1581191410269">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581074007770" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1581074007769">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581191410269" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1581191410268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581074007769" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1581074007768">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581191410268" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1581191410267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581074007768" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1581074007769">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581191410267" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1581191410268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581074007769" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581016577322">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581191410268" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581081466459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581016577322" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581081466459" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580985000353">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
